@@ -1,5 +1,5 @@
 # Fullstack Application Front-End
-This is the front-end portion of my [fullstack project.](https://github.com/jhatton1/fullstack-app-project-backend/tree/main) <br>
+This is the front-end portion of my fullstack project. The back-end portion can be found [here.](https://github.com/jhatton1/fullstack-backend) <br>
 
 ## Getting Started with Create React App
 
